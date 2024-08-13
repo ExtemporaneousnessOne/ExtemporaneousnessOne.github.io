@@ -1,3 +1,6 @@
 .test {
-	font-size: 600px;
+	font-size: 2vw;
+	position: absolute;
+        left: 50%;
+        top: 50%;
 }
