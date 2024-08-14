@@ -4,3 +4,8 @@
         left: 50%;
         top: 50%;
 }
+
+body {
+	background: black;
+	color: white;
+}
