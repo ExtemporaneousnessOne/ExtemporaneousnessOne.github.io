@@ -1,8 +1,9 @@
 .test {
-	font-size: 2vw;
+	font-size: 4vw;
 	position: absolute;
-        left: 50%;
-        top: 50%;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
 }
 
 body {
